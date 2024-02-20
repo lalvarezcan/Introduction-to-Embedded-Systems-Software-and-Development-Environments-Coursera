@@ -37,7 +37,6 @@ void main() {
 
   /* Other Variable Declarations Go Here */
   /* Statistics and Printing Functions Go Here */
-
   // Create Struct
   stat a;
 
